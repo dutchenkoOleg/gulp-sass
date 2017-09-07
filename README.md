@@ -6,6 +6,14 @@
 > __This project is an fork of gulp-sass__  
 > so look at first original version - [https://github.com/dlmanning/gulp-sass](https://github.com/dlmanning/gulp-sass)
 
+---
+
+## Project is deprecated and no longer maintained
+
+Use new project [gulp-sass-monster](https://github.com/dutchenkoOleg/gulp-sass-monster)
+
+---
+
 ## Options and features
 
 They work the same as [the original >](https://github.com/dlmanning/gulp-sass#options)
